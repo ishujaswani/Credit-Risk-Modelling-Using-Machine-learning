@@ -1,5 +1,5 @@
 # 🚀 Credit Risk Modelling Using Machine Learning  
-![Credit Risk Modelling](https://github.com/yourusername/Credit-Risk-Modelling-Using-Machine-Learning/blob/main/assets/banner.png)  
+![Credit Risk Modelling](https://media.giphy.com/media/11zyJuJXMxxJFm/giphy.gif?cid=790b7611gh81fn7i6bbkhwoq2hhcygobagsml78x9xcandfw&ep=v1_gifs_search&rid=giphy.gif&ct=g)  
 
 ## 📌 Overview  
 This repository contains a **machine learning project** focused on **credit risk modeling**. The goal is to determine loan eligibility by predicting the likelihood of **default**. This helps lenders make **data-driven** decisions and minimize **financial risks**.  
